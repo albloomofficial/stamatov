@@ -1,1 +1,7 @@
 *.csv
+*.pdf
+*.docx
+*.txt
+Step 1.docx
+Step 1.pdf
+.DS_Store
